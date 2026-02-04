@@ -4,6 +4,12 @@ AI & Systems Engineer specializing in agent-based architectures, model fine-tuni
 Bachelors in Computer Science with Artifical intelligence and machine learning (Three year integrated cource from Kannur University 23-26)
 Kerala, India · 21 years
 
+### **Current projects**
+
+
+
+
+
 ### **Core Expertise**
 
 * AI & Systems Engineering
@@ -28,5 +34,7 @@ The system uses an **agentic architecture** to coordinate multiple AI agents for
 ### **Long-Term Objective**
 
 To continuously deepen my understanding of evolving AI technologies, computer systems, and automation—building intelligent systems that address complex human challenges at scale.
+
+
 
 
