@@ -1,6 +1,4 @@
 
----
-
 ## **Adarsh Sunil Kumar**
 AI & Systems Engineer specializing in agent-based architectures, model fine-tuning, and AI-driven software. Creator of *FactPlus*, an LLM-powered credibility assessment engine focused on misinformation analysis and evidence-based verification.
 
@@ -31,10 +29,4 @@ The system uses an **agentic architecture** to coordinate multiple AI agents for
 
 To continuously deepen my understanding of evolving AI technologies, computer systems, and automation—building intelligent systems that address complex human challenges at scale.
 
----
 
-### Optional: **Short Profile (for headers / bios)**
-
-
-
----
