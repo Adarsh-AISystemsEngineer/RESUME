@@ -1,9 +1,7 @@
 
 ## **Adarsh Sunil Kumar**
 AI & Systems Engineer specializing in agent-based architectures, model fine-tuning, and AI-driven software. 
-
-
-**AI & Systems Engineer**
+Bachelors in Computer Science with Artifical intelligence and machine learning (Three year integrated cource from Kannur University 23-26)
 Kerala, India · 21 years
 
 ### **Core Expertise**
@@ -13,6 +11,7 @@ Kerala, India · 21 years
 * AI-Driven Software Development
 * Data Collection, Curation & Model Training
 * Model Fine-Tuning & Evaluation
+* Social Engineering 
 
 ### **Key Academic Project**
 
