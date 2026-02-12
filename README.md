@@ -7,7 +7,7 @@ Kerala, India · 21 years
 ### **Current projects**
 [FactPlus🔍](https://github.com/Adarsh-AISystemsEngineer/FactPlus.git)
 
-[OVERWATCH👁️] (https://github.com/Adarsh-AISystemsEngineer/OVERWATCH.git)
+[OVERWATCH👁️](https://github.com/Adarsh-AISystemsEngineer/OVERWATCH.git)
 
 
 
