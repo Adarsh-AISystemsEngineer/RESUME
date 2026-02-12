@@ -5,9 +5,8 @@ Bachelors in Computer Science with Artifical intelligence and machine learning (
 Kerala, India · 21 years
 
 ### **Current projects**
-[FactPlus🔍](https://github.com/Adarsh-AISystemsEngineer/FactPlus.git)
-
-[OVERWATCH👁️](https://github.com/Adarsh-AISystemsEngineer/OVERWATCH.git)
+1. [FactPlus🔍](https://github.com/Adarsh-AISystemsEngineer/FactPlus.git)
+2. [OVERWATCH👁️](https://github.com/Adarsh-AISystemsEngineer/OVERWATCH.git)
 
 
 
